@@ -1,12 +1,8 @@
-### hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
+### Hello There. <img src="https://c.tenor.com/Puiv6luwdf0AAAAC/obi-wan-kenobi-hello-there.gif" width="22">
 
-I study cs and math. I like **machine learning**.
+I am a programmer who has been doing this since 2016. I like **programming, computer repairing, design, music, and 3D modeling!**.
 
-- 🔭 research: scaled ml, ml optimization, generative ml, continuous ml, AI alignment, algebraic geometry
-- 🌱 hobbies: product & software design, philosophy, guitar, gaming
-- 🌐 websites: [🖥️ official](https://wensenwu.com) | [💻 terminal](https://cveinnt.com) | [💾 cveinntOS](https://cveinnt.org/)
-- 🤷‍♂️ [what's cveinnt?](https://wensenwu.com/cveinnt)
+I have many hobbies, but i cannot put all of them here. :)
 
-I've _recently started_ (may 2022) participating in the open source community; feel free to reach out if you want to collab!
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cveinnt&count_private=false&show_icons=true&hide_border=true&theme=tokyonight" alt="cveinnt" />
+- 🌱 hobbies: programming, computer reparing, music, design, history, math, 3D modeling, traveling, parkour, scootering, gym, and many more.
+- 🌐 websites: my old websites are gone. New but a small one coming soon.
